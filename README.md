@@ -2,7 +2,7 @@
 
 ### A Student/developer passionate about building and learning new things
 
-- 🔭 I'm currently working on **FactorLabs, a fast and efficient quant backtesting / research tool focused on speed and ease of use**
+- 🔭 I'm currently working on **Flowstate, which is a platform integrating intelligence into music production**
 
 - 📫 you can reach me at **gabriel.b.meredith@gmail.com**
 
